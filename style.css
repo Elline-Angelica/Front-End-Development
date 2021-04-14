@@ -106,6 +106,7 @@ body{
 	background: white;
 	height: 1500px;
 }
+
 .content-area h2 {
     font-family: poppins;
 	letter-spacing: 4px;
@@ -113,6 +114,7 @@ body{
 	font-size: 40px;
 	margin: 0;
 }
+
 .content-area p {
 	padding: 2% 0px;
 	font-family: 'Montserrat';
